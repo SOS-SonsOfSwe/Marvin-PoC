@@ -32,7 +32,7 @@ Then the `Metamask` plugin for Firefox or Chrome is required.
 
 ### Installing
 
-Go inside the repository folder (in case you aren't already there) and use `npm` to install other required programs typing the following commands:
+Use `npm` to install other required programs typing the following commands:
 
 Installing the local blockchain generator:
 ```
@@ -46,14 +46,16 @@ npm install -g truffle
 
 
 ### Deployment
-First of all you have to set the Metamask RPC to the local one that will be offered by Truffle:
+
+Go inside the repository folder (in case you aren't already there).
+First of all you have to set the Metamask RPC to the local one that will be offered by Ganache:
 ```
 http://localhost:9545
 ```
 
 We have prepared some scripts to make the project simpler to load:
 
-This will start the local blockchain hosted in `http://localhost:9545` with the mnemonic key offered by truffle:
+This will start the local blockchain hosted in `http://localhost:9545` with the mnemonic key offered by Ganache:
 ```
 startBlockchain.ps1
 ```
