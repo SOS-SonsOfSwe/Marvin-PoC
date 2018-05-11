@@ -22,6 +22,12 @@ And to clone the repository hosted at:
 https://github.com/SOS-SonsOfSwe/Marvin-PoC
 ```
 
+If you're using Windows you also have to digit from a shell
+```
+npm install --global --production windows-build-tools
+```
+to install Python and other utilities that are necessary to make the demo works.
+
 Then the `Metamask` plugin for Firefox or Chrome is required.
 
 ### Installing
