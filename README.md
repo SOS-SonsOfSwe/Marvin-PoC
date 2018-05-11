@@ -1,6 +1,6 @@
 # PoC-Marvin
 
-Proof of concept of the Marvin project by Red Babel developed by the Sons of Swe team.
+Proof of concept of the Marvin project developed by the Sons of Swe team for Red Babel.
 
 ## Getting Started
 
